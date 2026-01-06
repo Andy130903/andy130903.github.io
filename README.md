@@ -1,4 +1,4 @@
-# Andy Nguyen — Data Analytics Portfolio
+# Andy Nguyen - Data Analytics Portfolio
 
 Welcome to my personal data analytics portfolio.
 
